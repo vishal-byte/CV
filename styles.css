@@ -1,0 +1,15 @@
+.edu{
+  background-color: yellow;
+}
+h3{
+  color: blue;
+}
+.hell:hover{
+  background-color: pink;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  width: 10%;
+  border-color: grey;
+}
